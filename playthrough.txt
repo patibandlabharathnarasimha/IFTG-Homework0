@@ -1,0 +1,14 @@
+# Replace the lines below with the exact commands for YOUR game.
+# One command per line. Remove lines starting with '#' before submission.
+
+take keycard
+go east
+take glass-cutter
+cut power
+go west
+go north
+use keycard        # or: cut glass (now safe)
+take diamond
+go south
+go west
+escape
